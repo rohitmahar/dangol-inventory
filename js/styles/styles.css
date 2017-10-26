@@ -1,0 +1,19 @@
+.jumbotron{
+margin:53px 0 0 0;
+}
+#myCarousel{
+	margin:5px 0 0 0;
+}
+.footer{
+	background-color:#222;
+	padding: 10px 15px;
+	color:#9d9d9d;
+}
+#map{
+	height:400px;
+	border:2px;
+	border-color:#080808;
+}
+.img{
+	width:100%;
+}

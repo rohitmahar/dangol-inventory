@@ -1,0 +1,18 @@
+.jumbotron{
+   background-image:url('');
+   color:white;
+   background-attachment:fixed;
+   min-height:300px;
+   margin-top:0px;
+   margin-bottom:8px;
+}
+.navbar{
+background-color:#000d1a;
+
+}
+.dropdown-menu{
+background-color:#000d1a;
+}
+.body{
+background-color:#7a7881;
+}

@@ -1,0 +1,149 @@
+.jumbotron{
+margin:51px 0 0 0;
+background-color:;
+color: ;
+}
+.logo{
+	height:130px;
+	margin:10px 0 0 20px;
+}
+.hotelinfo{
+	margin-top:10px;
+}
+.brand{
+    font-family: "Times New Roman", Times, serif;
+    text-align: ;
+}
+.theme{
+     font-family: "Times New Roman", Times, serif;
+     text-align:center ;
+}
+.footer{
+	background-color:#000;
+	padding: 10px 0 10px 0;
+	color:#9d9d9d;
+	text-align:center;
+	margin-right:-15px;
+}
+#map{
+	height:500px;
+	border:2px;
+	border-color:#080808;
+}
+.thumb{
+	height:387px;
+
+}
+#googleMap{
+    height: 497px;
+    width: auto;
+  }
+  .body{
+  	width:100%;
+  }
+.tables{
+	padding-right:20px;
+}
+.para{
+	overflow-y: scroll;
+	max-height: 500px;
+}
+.thumbback{
+	background-color: #D0D0D0;
+}
+.carimg{
+	max-height:400px;
+	width:100%;
+}
+
+.thumbcap{
+	margin-left: 30%;
+	margin-top:-400px;
+	position:absolute;
+	border-radius:12px;
+	width:600px;
+	height:auto;
+	float:left;
+	background-color: #B8B8B8;
+    opacity: 0.7;
+    transition: opacity .25s ease-in-out;
+   -moz-transition: opacity .25s ease-in-out;
+   -webkit-transition: opacity .25s ease-in-out;
+}
+
+.thumbcap h2,ul{
+	color:#000000;
+    list-style: none;
+}
+ul li{
+	text-align: left;
+}
+.signin{
+	margin-top:40px;
+	
+	margin-bottom:50px;
+	margin-left:50px;
+	background-color:#D0D0D0; 
+}
+.signinclients{
+	width:100%;
+	background-image: url("../images/clients.png");
+}
+.signinadmin{
+	width:100%;
+	background-image: url("../images/admin.png");
+}
+.anchor{
+	background-color:#D0D0D0; 
+}
+.thumbin{
+	min-height:508px;
+}
+.thumbnewreg{
+	width:350px;
+	height:200px;
+	margin-left:40px;
+	background-color: #100000;
+}
+.imgnewreg{
+	width:100%;
+	max-height:190px;
+}
+.colornew ,.thumbb{
+	background-color:#484848;
+}
+.dropdownsearch{
+	background-color: #080808;
+	color: #9d9d9d;
+	display:block;
+
+}
+.dropdownsearch > li > a:hover{
+	color: #fff;
+    background-color: transparent;		
+}
+.rowform{
+	width:100%;
+	background-color:#484848;
+}
+.formnew{
+	margin-left: 10%;
+	margin-right:10%;
+	margin-top: 10px;
+}
+.rowcar{
+	margin-top:50px;
+}
+.table-inverse {
+  background-color: #222;
+  border-color: #080808;
+  border-color: #000000;
+}
+.table-inverse {
+  color: #9d9d9d;
+}
+.table-inverse:hover,
+ {
+  color: #303030 ;
+  background-color: transparent;
+}
